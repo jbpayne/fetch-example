@@ -87,3 +87,26 @@ body {
 #user-9, #post-9 {
   color: rgb(212, 0, 255);
 }
+
+#comments {
+  text-align: left;
+  margin-top: 25px;
+}
+
+#comment-list {
+  text-align: left;
+}
+
+.comment-email {
+  color: red;
+}
+
+.comment-title {
+  font-weight: bold;
+  color: rgb(255, 196, 0);
+}
+
+.comment-body {
+  color: rgb(212, 0, 255);
+  margin-bottom: 15px;
+}
